@@ -1,0 +1,11 @@
+tipe data JS
+Integer
+Boolean
+Array
+Object
+String
+
+Penggunaan variable pada JavaScript
+Const->tidak bs diganti isi datanya
+let->bisa diganti isi datanya
+
