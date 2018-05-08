@@ -1,11 +1,11 @@
 const person = {
     name: 'notlog11c',
     age: 20,
-    address: 'Semarang'
+    address: 'Semarang',
+    sayHello: () => console.log('Hallo')
 }
 
 person.status = 'single'
+delete person.age
 
-
-
-console.log(person)
+person.sayHello()
